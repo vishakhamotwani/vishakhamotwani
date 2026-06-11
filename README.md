@@ -1,9 +1,20 @@
-- 👋 Hi, I’m @vishakhamotwani
-- 👀 I’m interested in planning and organizing!
-- 🌱 I’m currently learning to build things on my own.
+# Hi, I'm Vishakha.
 
+I build frontend systems people actually use — from architecture to pixel. Human judgment, AI speed.
 
-<!---
-vishakhamotwani/vishakhamotwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## What I do
+
+Growth engineering · Design systems · Multi-MFE architecture · Web performance · AI-native development
+
+## Built
+
+- [Color Tile Journal](https://color-tile-journal.vercel.app) — React · TypeScript · Vercel
+- SplitSuggest *(coming soon)* — AI-native · React · TypeScript
+
+## Stack
+
+React · Angular · TypeScript · Node.js · GraphQL · CSS · Figma
+
+## Find me
+
+[LinkedIn](https://www.linkedin.com/in/vishakhamotwani)
